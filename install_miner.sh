@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo apt-get update && sudo apt-get install -y screen git cpulimit zypper automake build-essential autoconf pkg-config libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev make g++ && git clone https://github.com/wolf9466/cpuminer-multi
