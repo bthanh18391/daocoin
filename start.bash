@@ -1,0 +1,1 @@
+./ethdcrminer64 -epool asia1.ethermine.org:4444 -ewal 0x782e59ec5699ae29e58ac3552496eb91be0c16da -epsw x
